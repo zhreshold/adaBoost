@@ -1,0 +1,8 @@
+CHANGE-LOG
+
+----------------------------------------------------------------------------------------
+
+10/28/2013
+- Fixed a bug when max iteration reached.
+- Fixed a bug of strong classifier calculation
+- Cleaned-up
