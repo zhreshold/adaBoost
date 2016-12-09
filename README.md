@@ -1,12 +1,9 @@
 #ADA-BOOST
-ADAPTIVE BOOSTING ALGORITHM
-
-AUTHOR: JOSHUA ZHANG
+Adaptive boosting algorithm implementation in C++
 
 
 ## Usage 
-*TRAINING MODULE
-
+*TRAINING MODULE*
 ```
 Usage: train.exe [options] train_file [model_file]
 options:
@@ -19,8 +16,7 @@ options:
 ```
 
 
-*TESTING MODULE
-
+*TESTING MODULE*
 ```
 Usage:  test.exe test_file model_file predict_file
 ```
